@@ -1,0 +1,22 @@
+/* dbsx.wxss */
+.box{
+  border-bottom: 1px #ccc solid;
+  position: relative;
+  padding: 20rpx;
+}
+.title{
+  font-size: 30rpx;
+  color: #000;
+}
+.name{
+  font-size:28rpx;
+  color: #999;
+}
+.time{
+  font-size: 30rpx;
+  float: right;
+}
+.change{
+  opacity: 0.7;
+  background: #ccc;
+}

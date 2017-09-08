@@ -1,0 +1,9 @@
+<!--dbsx.wxml-->
+<view class="box" wx:for="{{pagearr}}" data-url="{{item.url}}" hover-class="change" bindtap="pagejump">
+  <view>
+    <text  class="title">{{item.title}}</text> 
+    <text class="time">{{item.time}}</text>
+  </view>
+  <view class="name">{{item.name}}</view>
+ 
+</view>
