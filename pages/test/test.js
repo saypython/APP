@@ -4,6 +4,7 @@ Page({
     setTimeout(wx.stopPullDownRefresh,500)
   },
   onLoad: function (options){
-    wx.startPullDownRefresh()
+    wx.startPullDownRefresh();
+    //test
   }
 })
