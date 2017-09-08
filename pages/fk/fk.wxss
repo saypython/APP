@@ -1,0 +1,33 @@
+/* fk.wxss */
+.boxt{
+  padding: 20%;
+  border-bottom: 1px #ccc solid;
+  border-right: 1px #ccc solid;
+}
+.box{
+  position: relative;
+  text-align: center;
+  font-size: 30rpx;
+  width: 33.33333335%;
+  float: left;
+}
+.img{
+  width: 85rpx;
+  height: 85rpx;
+}
+.num{
+  position: absolute;
+  top:35rpx;
+  right:45rpx;
+  width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  font-size: 13px;
+  color: #FFF;
+  background: red;
+}
+.change{
+  position: relative;
+  opacity: 0.7;
+  background: #ccc;
+}

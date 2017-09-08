@@ -1,0 +1,25 @@
+/* detail.wxss */
+.content{
+  padding: 2%;
+}
+.title{
+  color: #C70019;
+  border-bottom: 2px #C70019 solid;
+  margin-top:1%;
+  padding:2%;
+  font-size: 35rpx;
+  font-weight: bold;
+}
+.ctext{
+  padding:2%;
+}
+.ctextnr{
+  color: #444;
+  font-size: 30rpx;
+}
+.btn{
+  border: 2px #C70019 solid;
+}
+.btnchange{
+  background: #C70019;
+}

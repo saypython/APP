@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/fk/fk",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/fk/dbsx",
+    "pages/fk/detail",
+    "pages/test/test"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
